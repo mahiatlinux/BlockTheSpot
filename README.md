@@ -23,6 +23,7 @@
 
 ## NEW EASY INSTALL METHOD
 * Just download and run [blockthespot_freshinstall.bat](https://raw.githack.com/mrpond/BlockTheSpot/master/blockthespot_freshinstall.bat)
+* DO NOT run as administrator.
 
 ## COMPLEX INSTALL METHOD (fun experience)
 ### Installation/Update:
