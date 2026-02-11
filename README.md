@@ -21,6 +21,12 @@
 
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
+## NEW EASY INSTALL METHOD
+* Just download and run [blockthespot_freshinstall.bat](https://raw.githack.com/mrpond/BlockTheSpot/master/blockthespot_freshinstall.bat)
+
+## COMPLEX INSTALL METHOD (fun experience)
+### Installation/Update:
+
 #### Fresh installation
 1. Browse to your Spotify installation folder `%APPDATA%\Spotify`
 2. Rename `chrome_elf.dll` to `chrome_elf_required.dll`
@@ -45,8 +51,3 @@ or just reinstall Spotify
 ### Additional Notes:
 
 * For more support and discussions, join our [Discord server](https://discord.gg/eYudMwgYtY).
-
-
-
-
-
